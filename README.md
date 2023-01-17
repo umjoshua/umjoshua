@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I am a software developer and devops enthusiast with a passion for cutting-edge technologies and staying up-to-date with the latest trends.
+I am a software developer and DevOps enthusiast with a passion for cutting-edge technologies and staying up-to-date with the latest trends.
 
 ### Skills
 * Go
 * Python
 * Node.js
 * React.js
-* React Native
 * Docker
 * Kubernetes
 * CI/CD
