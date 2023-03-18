@@ -8,7 +8,7 @@ I am a software developer and DevOps enthusiast with a passion for cutting-edge 
 * React.js
 * Docker
 * Kubernetes
-* CI/CD
+* CI/CD with Jenkins
 <!--
 **umjoshua/umjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
