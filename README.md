@@ -9,6 +9,7 @@ I am a software developer and DevOps enthusiast with a passion for cutting-edge 
 * Docker
 * Kubernetes
 * CI/CD with Jenkins
+* AWS Fundamentals
 * IaC with Terraform
 <!--
 **umjoshua/umjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
