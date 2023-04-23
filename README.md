@@ -11,6 +11,7 @@ I am a software developer and DevOps enthusiast with a passion for cutting-edge 
 * CI/CD with Jenkins
 * AWS Fundamentals
 * IaC with Terraform
+* Configuration Management with Ansible
 <!--
 **umjoshua/umjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
