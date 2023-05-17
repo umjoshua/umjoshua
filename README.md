@@ -8,7 +8,7 @@ I am a software developer and DevOps enthusiast with a passion for cutting-edge 
 * React.js
 * Docker
 * Kubernetes
-* CI/CD with Jenkins
+* CI/CD with Jenkins, GitLab CI/CD
 * AWS Fundamentals
 * IaC with Terraform
 * Configuration Management with Ansible
