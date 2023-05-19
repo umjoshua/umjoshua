@@ -9,7 +9,7 @@ I am a software developer and DevOps enthusiast with a passion for cutting-edge 
 * Docker
 * Kubernetes, Helm, Datree
 * Jenkins, GitLab CI/CD
-* AWS, GCP Fundamentals
+* AWS & GCP Fundamentals
 * IaC with Terraform
 * Configuration Management with Ansible
 <!--
