@@ -9,9 +9,9 @@ I am a software developer and DevOps enthusiast with a passion for cutting-edge 
 * React.js
 * Docker
 * Kubernetes, Helm, Datree
-* Jenkins, GitLab CI/CD
+* Jenkins, GitLab CI/CD, Argo CD
 * AWS & GCP Fundamentals
-* IaC with Terraform
+* IaC with Terraform, Pulumi
 * Configuration Management with Ansible
 <!--
 **umjoshua/umjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
