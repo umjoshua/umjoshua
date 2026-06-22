@@ -1,29 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
-I am a software developer and DevOps enthusiast with a passion for cutting-edge technologies and staying up-to-date with the latest trends.
+I'm Joshua, a Site Reliability Engineer with a passion for building reliable, scalable, and observable cloud-native platforms.
 
-### Skills
-* Go
-* Python
-* Node.js
-* React.js
-* Docker
-* Kubernetes, Helm, Datree
-* Jenkins, GitLab CI/CD, Argo CD
-* AWS & GCP Fundamentals
-* IaC with Terraform, Pulumi
-* Configuration Management with Ansible
-<!--
-**umjoshua/umjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My expertise spans Kubernetes, Linux, networking, cloud infrastructure, and software engineering, with a focus on automation, reliability, and operational excellence.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving complex distributed systems challenges and building tools that make infrastructure more efficient, resilient, and developer-friendly.
